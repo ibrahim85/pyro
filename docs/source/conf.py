@@ -65,7 +65,8 @@ author = u'Uber AI Labs'
 # built documents.
 #
 # The short X.Y version.
-version = pkg_resources.require('pyro-ppl')[0].version
+# version = pkg_resources.require('pyro-ppl')[0].version
+version = u'0.1.0'
 # The full version, including alpha/beta/rc tags.
 release = u'0.1.0'
 
